@@ -13,5 +13,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```
 Frontend Problem Statement
-There is an use case where a ball is dropped at certain height h1 to a fixed horizontal plane and then the ball bounces back at height h2  and drops at height h3 and so on till the height becomes 0.You have to develop a web application which will plot a graph between all the heights and  time and display total number of bounce, where coefficient of restitution  value can be changed via slider.
+There is an use case where a ball is dropped at certain height h1 to a fixed horizontal plane and then the ball <br> bounces back at height h2  and drops at height h3 and so on till the height becomes 0.You have to develop a web <br> application which will plot a graph between all the heights and  time and display total number of bounce, where <br> coefficient of restitution  value can be changed via slider.
 ```
